@@ -28,7 +28,7 @@ Les fichiers `taches.xml` et `users.xml` sont **créés automatiquement** au pre
 
 | Login | Mot de passe |
 |-------|-------------|
-| `sebastien` | `toto11__` |
+| `sebastien` | `x-x-x-x-x-x-x-x-x` |
 
 > ⚠️ Le mot de passe est stocké hashé (`password_hash`) dans `users.xml`. Il n'est jamais en clair.
 
